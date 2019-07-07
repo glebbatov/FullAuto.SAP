@@ -1,4 +1,5 @@
 <p align="left">
+<img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/1200px-Microsoft_Office_Excel_(2018%E2%80%93present).svg.png" width="125">
   <h1>FullAuto.SAP</h1>
   <h3>[VBA, Excel]</h3>
 <p>
@@ -6,9 +7,9 @@
 Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for SAP client (production orders) at Insight (ten times decrese for production order process (hundred times stress reduction for a technician)).
 <p>
 <p align="left">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/01.jpg" width="350">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/02.jpg" width="350">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/03.jpg" width="350">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/01.jpg" width="500">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/02.jpg" width="500">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/03.jpg" width="500">
 </p>
 
 # Versions
