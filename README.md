@@ -31,17 +31,17 @@ Introducing the most up-to-date version of FullAuto™ v.1.05
 
 v.1.04
 * Cell E12 allow choose a printer for stickers (Data)
-* more cities/states to the location column have been added (Laptops)
-* more devices have been added (Mobiles.UPC) 
+* More cities/states to the location column have been added (Laptops)
+* More devices have been added (Mobiles.UPC) 
 
 v.1.03
-* more cities/states to the location column have been added (Laptops)
-* more devices have been added (Mobiles.UPC) 
+* More cities/states to the location column have been added (Laptops)
+* More devices have been added (Mobiles.UPC) 
 
 v.1.02
-* pulling data to userID/costCenter# columns, if the data is existing in SAP (Laptops/Mobile.Pull Data)
-* script execution follows a current cell (Data.All buttons)
-* wrong incrementing value has been fixed (Laptops/Mobile.Pull Data)
+* Pulling data to userID/costCenter# columns, if the data is existing in SAP (Laptops/Mobile.Pull Data)
+* Script execution follows a current cell (Data.All buttons)
+* Wrong incrementing value has been fixed (Laptops/Mobile.Pull Data)
 
 v.1.01
 [first release version]
