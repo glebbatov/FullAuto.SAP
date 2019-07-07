@@ -7,9 +7,9 @@
 Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for SAP client (production orders) at Insight (ten times decrese for production order process (hundred times stress reduction for a technician)).
 <p>
 <p align="left">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/01.jpg" width="500">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/02.jpg" width="500">
-  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/03.jpg" width="500">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/01.jpg" width="600">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/02.jpg" width="600">
+  <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/03.jpg" width="600">
 </p>
 
 # Versions
