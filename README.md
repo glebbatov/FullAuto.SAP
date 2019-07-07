@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://github.com/glebbatov/FullAuto.SAP/blob/master/1200px-Microsoft_Office_Excel_(2018%E2%80%93present).svg.png" width="125">
   <h1>FullAuto.SAP</h1>
-  <h3>[VBA, Excel]</h3>
+  <h3>[VBA, Excel, SAP ERP]</h3>
 <p>
   
 Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise resource planning) system for SAP client (production orders) at Insight (ten times decrease for production order process (hundred times stress reduction for a technician)).
