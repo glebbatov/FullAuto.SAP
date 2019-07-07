@@ -15,6 +15,7 @@ Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise res
 # Versions
   
 v.1.05
+
 We here at SAP production care about our technicians’ sanity. We decided, that the most tedious process of working with SAP system must be replaced with a one button click.
 Introducing the most up-to-date version of FullAuto™ v.1.05
 * New FullAuto™ button "presses" first 4 buttons (Data Sheet):
