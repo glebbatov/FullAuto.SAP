@@ -13,7 +13,7 @@ Automation solution based on Excel (VBA). Interacts with SAP ERP (enterprise res
 
 # Versions
   
-	v.1.05
+v.1.05
 We here at SAP production care about our technicians’ sanity. We decided, that the most tedious process of working with SAP system must be replaced with a one button click.
 Introducing the most up-to-date version of FullAuto™ v.1.05
 * New FullAuto™ button "presses" first 4 buttons (Data Sheet):
@@ -26,40 +26,40 @@ Introducing the most up-to-date version of FullAuto™ v.1.05
 	- Control panel for play sound has been added (Data Sheet)
 	- Check boxes ("Play") for play sound when FullAuto/CNFCheck clicked have been added (Data Sheet)
 
-	v.1.04
+v.1.04
 * Cell E12 allow choose a printer for stickers (Data)
 * more cities/states to the location column have been added (Laptops)
 * more devices have been added (Mobiles.UPC) 
 
-	v.1.03
+v.1.03
 * more cities/states to the location column have been added (Laptops)
 * more devices have been added (Mobiles.UPC) 
 
-	v.1.02
+v.1.02
 * pulling data to userID/costCenter# columns, if the data is existing in SAP (Laptops/Mobile.Pull Data)
 * script execution follows a current cell (Data.All buttons)
 * wrong incrementing value has been fixed (Laptops/Mobile.Pull Data)
 
-	v.1.01
+v.1.01
 [first release version]
 Production orders automation for SAP client
 * Data sheet
-	-Print LabNotes
-	-Pull order quantity for pack/unpack
-	-Pack/unpack orders
-	-Print Stickers
-	-Pull CNF Check (E18 cell changes time delay(in seconds))
+	* Print LabNotes
+	* Pull order quantity for pack/unpack
+	* Pack/unpack orders
+	* Print Stickers
+	* Pull CNF Check (E18 cell changes time delay(in seconds))
 * Laptops sheet
-	-Pull data for orders from SAP system(sales order, used id, user name, email, shipping address, CostCenter#)
-	-Variety of buttons for automation and smooth workflow
+	* Pull data for orders from SAP system(sales order, used id, user name, email, shipping address, CostCenter#)
+	* Variety of buttons for automation and smooth workflow
 * Mobiles sheet
-	-Pull data for orders from SAP system(sales order, used id, CostCenter#, user name, email, shipping address, area code, carrier, mobile number, PO# & Line Item)
-	-Variety of buttons for automation and smooth workflow
+	* Pull data for orders from SAP system(sales order, used id, CostCenter#, user name, email, shipping address, area code, carrier, mobile number, PO# & Line Item)
+	* Variety of buttons for automation and smooth workflow
 * Additional sheets:
-	-Laptops.MassDeployment (few clicks deployment)
-	-Laptops.Location (filling Laptops.Location column automatically)
-	-Mobile.UPC (filling Mobiles.DeviceType column automatically)
-	-Stickers
+	* Laptops.MassDeployment (few clicks deployment)
+	* Laptops.Location (filling Laptops.Location column automatically)
+	* Mobile.UPC (filling Mobiles.DeviceType column automatically)
+	* Stickers
 
 # Developed By
 Gleb Batov - batov.gleb1@gmail.com
